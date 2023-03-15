@@ -6,3 +6,12 @@
     text-align: center;
     color: #fff;
 }
+
+.main {
+    padding: 100px;
+    background-color: rgb(92, 67, 50);
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #fff;
+    text-align: center;
+}
